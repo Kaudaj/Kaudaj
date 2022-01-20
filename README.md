@@ -53,7 +53,7 @@
 <h2 align="center">Connect with me:</h3>
 
 <p align="center"><a href="mailto:info@kaudaj.com">info@kaudaj.com</a><p>
-<p align="center">OR<p>
+<p align="center"><b>OR</b><p>
 <p align="center">
   <a href="https://linkedin.com/in/tom combet" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom combet" height="30" width="40" />
