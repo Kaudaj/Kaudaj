@@ -1,21 +1,74 @@
 <h1 align="center">Coding to break the codes</h1>
-<h3 align="center">Kaudaj - Freelance web developer</h3>
+<h3 align="center">Kaudaj<br>Freelance developer</h3>
+<p align="center"><a href="https://kaudaj.com">kaudaj.com</a></p>
 
-<h3 align="center">Connect with me:</h3>
+<table align="center">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🛠️ Projects</b></td>
+      <td><b>📋 Description</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🔀 Forks</b></td>
+      <td><b>🚨 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Kaudaj/kjmodulebedrock"><b>kjmodulebedrock</b></a></td>
+      <td>Module Bedrock for PrestaShop</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Kaudaj/kjmodulebedrock?style=flat-square&labelColor=343b41&color=fda50f"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Kaudaj/kjmodulebedrock?style=flat-square&labelColor=343b41&color=f05e23"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Kaudaj/kjmodulebedrock?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Kaudaj/kjmodulebedrock?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/Kaudaj/prestashop-maker"><b>prestashop-maker</b></a></td>
+      <td>(WIP) Boilerplate code generator <br>for PrestaShop</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Kaudaj/prestashop-maker?style=flat-square&labelColor=343b41&color=fda50f"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Kaudaj/prestashop-maker?style=flat-square&labelColor=343b41&color=f05e23"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Kaudaj/prestashop-maker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Kaudaj/prestashop-maker?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Kaudaj/shakuhachi-training"><b>shakuhachi-training</b></a></td>
+      <td>(WIP) Android app to train breath<br> for wind instrument players</td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Kaudaj/shakuhachi-training?style=flat-square&labelColor=343b41&color=fda50f"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Kaudaj/shakuhachi-training?style=flat-square&labelColor=343b41&color=f05e23"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Kaudaj/shakuhachi-training?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Kaudaj/shakuhachi-training?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<p align="center">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=kaudaj&show_icons=true&theme=onedark&locale=en&title_color=f05e23&text_color=ccc&icon_color=fda50f&border_color=f05e23&custom_title=Kaudaj" alt="Kaudaj" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaudaj&show_icons=true&theme=onedark&locale=en&layout=compact" alt="kaudaj" />-->
+</p>
+
+<br>
+
+<h2 align="center">Connect with me:</h3>
+
+<p align="center"><a href="mailto:info@kaudaj.com">info@kaudaj.com</a><p>
+<p align="center">OR<p>
 <p align="center">
   <a href="https://linkedin.com/in/tom combet" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom combet" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/kaudaj" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaudaj" height="30" width="40" />
-  </a>
   <a href="https://fb.com/kaudaj" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaudaj" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/Kogani#4522" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kogani#4522" height="30" width="40" />
+  <a href="https://stackoverflow.com/users/kaudaj" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaudaj" height="30" width="40" />
   </a>
 </p>
+
+<br>
+
+<h2 align="center">Skills:</h3>
 
 <h3 align="center">Languages:</h3>
 <p align="center"> 
@@ -57,75 +110,65 @@
   </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>  
+  </a> 
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
+  </a>
 </p>
 
-<h3 align="center">Tools:</h3>
-<p align="center"> 
+<h3 align="center">Frameworks:</h3>
+<p align="center">
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
   </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-  </a>
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+  </a>
+</p>
+
+<h3 align="center">Databases:</h3>
+<p align="center">
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>     </a>  
+</p>
+
+<h3 align="center">Softwares:</h3>
+<p align="center">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>     </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a> 
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
-  </a>
 </p>
 
-<br>
-<br>
-
-<p align="center">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=kaudaj&show_icons=true&theme=onedark&locale=en" alt="kaudaj" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaudaj&show_icons=true&theme=onedark&locale=en&layout=compact" alt="kaudaj" />
-</p>
-
+<h3 align="center">Tools:</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaudaj&theme=dark" alt="kaudaj" />
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
 </p>
-
