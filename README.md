@@ -16,7 +16,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/Kaudaj/kjmodulebedrock"><b>kjmodulebedrock</b></a></td>
-      <td>Module Bedrock for PrestaShop</td>
+      <td>Module bedrock for PrestaShop</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Kaudaj/kjmodulebedrock?style=flat-square&labelColor=343b41&color=fda50f"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Kaudaj/kjmodulebedrock?style=flat-square&labelColor=343b41&color=f05e23"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/Kaudaj/kjmodulebedrock?style=flat-square&labelColor=343b41"/></td>
