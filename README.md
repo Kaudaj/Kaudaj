@@ -1,6 +1,6 @@
 <h1 align="center">Coding to break the codes</h1>
 <h3 align="center">Kaudaj<br>Freelance developer</h3>
-<p align="center"><a href="https://kaudaj.com">kaudaj.com</a></p>
+<p align="center"><a href="https://kaudaj.com"><strong>kaudaj.com</strong></a></p>
 
 <table align="center">
   <thead align="center">
@@ -54,9 +54,9 @@
 
 <br>
 
-<h2 align="center">Connect with me:</h3>
+<h2 align="center">Connect with me</h2>
 
-<p align="center"><a href="mailto:info@kaudaj.com">info@kaudaj.com</a><p>
+<p align="center"><a href="mailto:info@kaudaj.com"><strong>info@kaudaj.com</strong></a><p>
 <p align="center"><b>OR</b><p>
 <p align="center">
   <a href="https://linkedin.com/in/tom combet" target="blank">
@@ -72,9 +72,9 @@
 
 <br>
 
-<h2 align="center">Skills:</h3>
+<h2 align="center">Skills</h2>
 
-<h3 align="center">Languages:</h3>
+<h3 align="center">Languages</h3>
 <p align="center"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -120,7 +120,7 @@
   </a>
 </p>
 
-<h3 align="center">Frameworks:</h3>
+<h3 align="center">Frameworks</h3>
 <p align="center">
   <a href="https://symfony.com" target="_blank" rel="noreferrer"> 
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> 
@@ -139,7 +139,7 @@
   </a>
 </p>
 
-<h3 align="center">Databases:</h3>
+<h3 align="center">Databases</h3>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -151,7 +151,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>     </a>  
 </p>
 
-<h3 align="center">Softwares:</h3>
+<h3 align="center">Softwares</h3>
 <p align="center">
 	<a href="https://postman.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
@@ -167,7 +167,7 @@
   </a>
 </p>
 
-<h3 align="center">Tools:</h3>
+<h3 align="center">Tools</h3>
 <p align="center">
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
@@ -176,6 +176,8 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
 </p>
+
+<br>
 
 <h2 align="center">Activity</h2>
 
