@@ -1,5 +1,5 @@
 <h1 align="center">Coding to break the codes</h1>
-<h3 align="center">Kaudaj<br>Freelance developer</h3>
+<h3 align="center">Tom Combet<br>Freelance developer</h3>
 <p align="center"><a href="https://kaudaj.com"><strong>kaudaj.com</strong></a></p>
 
 <table align="center">
