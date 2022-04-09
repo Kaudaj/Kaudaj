@@ -59,13 +59,13 @@
 <p align="center"><a href="mailto:info@kaudaj.com"><strong>info@kaudaj.com</strong></a><p>
 <p align="center"><b>OR</b><p>
 <p align="center">
-  <a href="https://linkedin.com/in/tom combet" target="blank">
+  <a href="https://linkedin.com/in/tom-combet-12b83a204" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom combet" height="30" width="40" />
   </a>
-  <a href="https://fb.com/kaudaj" target="blank">
+  <a href="https://www.facebook.com/kaudaj.dev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaudaj" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/kaudaj" target="blank">
+  <a href="https://stackoverflow.com/users/17471786/kaudaj" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaudaj" height="30" width="40" />
   </a>
 </p>
