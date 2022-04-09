@@ -182,6 +182,6 @@
 <h2 align="center">Activity</h2>
 
 <p align="center">&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=kaudaj&show_icons=true&theme=onedark&locale=en&title_color=f05e23&text_color=ccc&icon_color=fda50f&border_color=f05e23&custom_title=Kaudaj" alt="Kaudaj" />
-  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaudaj&show_icons=true&theme=onedark&locale=en&layout=compact" alt="kaudaj" />-->
+  <img src="https://github-readme-stats.vercel.app/api?username=tom-combet&show_icons=true&theme=onedark&locale=en&title_color=f05e23&text_color=ccc&icon_color=fda50f&border_color=f05e23&custom_title=Tom Combet" alt="Tom Combet Stats" />
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tom-combet&show_icons=true&theme=onedark&locale=en&layout=compact" alt="tom-combet" />-->
 </p>
