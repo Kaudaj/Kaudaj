@@ -31,7 +31,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Kaudaj/prestashop-maker?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Kaudaj/shakuhachi-training"><b>shakuhachi-training</b></a></td>
+      <td><a href="https://github.com/tom-combet/shakuhachi-training"><b>shakuhachi-training</b></a></td>
       <td>(WIP) Android app to train breath<br> for wind instrument players</td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/Kaudaj/shakuhachi-training?style=flat-square&labelColor=343b41&color=fda50f"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/Kaudaj/shakuhachi-training?style=flat-square&labelColor=343b41&color=f05e23"/></td>
